@@ -1,0 +1,7 @@
+blockfolio-ai/
+├── contracts/           # Solidity smart contracts
+├── backend/             # Node.js backend API
+├── frontend/            # React frontend
+├── scripts/             # Deployment scripts
+├── tests/               # Test files
+└── docker-compose.yml   # Docker configuration
